@@ -15,3 +15,10 @@ Current working team:
 * Pocket4D: [proposal](https://docs.google.com/document/d/1-0EMQE3FwEAtdMcRu9XcVI8xYYKiyGM3jZ7dSHJdvTs)
 
 * Fearless Wallet / soramitsu
+
+
+---
+
+## Project folders
+* Relay App of Pocket4D: [Wallet4D](Wallet4D/README.md) 
+
