@@ -5,8 +5,11 @@ In order to distribute the 1st batch reward and manage the rest of the fund in a
 The multi-sig wallet is a 3/4 wallet, where:
 
 Hanwen: FvokLqZ9DqT67pukJWWWbEi5kvCkjyCoTvhw4RwUJFgpQXn
+
 Hanwen Backup:DaXGiHoePTkBAcWUEViyjvvYQrC3g2jrfkQfDnT2TWxe5py
+
 Pascal: GRfviCuQxbQeT6hU3gQ6fD8UvcQfyLWj7yg2DQAEhSw6QSK
+
 Anton: Day71GSJAxUUiFic8bVaWoAczR3Ue3jNonBZthVHp2BKzyJ
 
 
