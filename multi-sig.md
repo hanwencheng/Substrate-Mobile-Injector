@@ -1,4 +1,4 @@
-# Create a Multi Sig for receive the fund
+# Create a Multi Sig for receiving the fund
 
 In order to distribute the 1st batch reward and manage the rest of the fund in a decentralized way, I would like to set up a multi-sig wallet with the main implementor in the bouty, which is Pascal from Beacon and Anton from Fearless/Nova Wallet.
 
