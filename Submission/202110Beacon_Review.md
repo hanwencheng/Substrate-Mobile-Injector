@@ -59,6 +59,8 @@ The rest part of the KSM token will be distributed to the Beacon teams once the 
 
 KSM price based on [last 30 days average](https://docs.google.com/spreadsheets/d/15-nY95I_AeoIWr-BMk2j3CqM9ELkg3YU5EKjMz87bZ4/edit#gid=0).
 
+KSM recipient address is: CofiVSeTqTqJX4pLGjQ6wh2UjPGh6LfrdrV4R8LSyFerSxX
+
 <table>
   <tr>
    <td>Total Cost USDT
