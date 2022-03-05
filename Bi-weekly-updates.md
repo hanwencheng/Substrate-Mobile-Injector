@@ -31,7 +31,9 @@ If you guys can do some recording or documenting during meeting will be helpful 
 
 ### 05.03.2022
 
-Beacon team is 1. fixing the issues on iOS, 2 resolve QR code issue by Polkadot.js app overriding 3. create new message type `sign_payload`
-Nova team is doing SDK integration on IOS and submitted two iOS issues: 1. message parsing 2. ECDSA key length unpaired
-Fearless team is doing SDK integration on Android and meet no-response issue (answered)
+Beacon team is 1. fixing the issues on iOS, 2 resolve QR code issue by Polkadot.js app overriding 3. create new message type `sign_payload`.
+
+Nova team is doing SDK integration on IOS and submitted two iOS issues: 1. message parsing 2. ECDSA key length unpaired.
+
+Fearless team is doing SDK integration on Android and meet no-response issue (answered).
 
