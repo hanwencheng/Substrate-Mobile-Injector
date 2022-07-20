@@ -27,8 +27,8 @@ If you guys can do some recording or documenting during meeting will be helpful 
 * Forking the typescript beacon-sdk and creating a proof of concept that is compatible with polkadot.js
 * Creating a small test dApp with the forked beacon-sdk and polkadot.js to help wallets with their integration
 
-#### Fearless Wallet
+### December 2nd
 
-### June 17th
+Define the standard for Communication between dApp and Wallet, which include the request from dApp side, and the response from the wallet side.
 
-### July 1st
+Rename the functions from `KusamaSignReqeust` to `SubstrateSignRequest`
