@@ -51,6 +51,8 @@ Anton regularly attends the meeting and contributes actively to the standard of 
 
 KSM price based on [last 30 days average](https://docs.google.com/spreadsheets/d/15-nY95I_AeoIWr-BMk2j3CqM9ELkg3YU5EKjMz87bZ4/edit#gid=0).
 
+KSM recipient address: FyLYnuNoMAVkz1VZMMGZFHDPghQQm1916fCon1CqNt2aXbX
+
 <table>
   <tr>
    <td>Total Cost USDT
