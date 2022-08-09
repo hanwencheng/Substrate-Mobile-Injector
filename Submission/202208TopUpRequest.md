@@ -9,3 +9,8 @@ The bounty include relatively more work which could be split into different stag
 Hereby I kindly ask the council to approve the request to top up 1604 KSM into the bounty according to the calculation made below:  
 
 ![Time Spent Table](../res/TimeSpent.png)
+
+For the detail of the review of bounty 3 please refer to: 
+* [Review of Part 1 on 2021 October - Beacon](./202110Beacon_Review.md)
+* [Review of Part 1 on 2021 October - Fearless Wallet](./202110Fearless_Submission_Review.md)
+* [Review of Part 2 on 2022 June](./202206Review.md)
