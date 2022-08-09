@@ -1,7 +1,6 @@
 # Substrate-Mobile-Injector
 This repo is used to provide the basic info and share documents for Substrate mobile injector bounty.
 
-
 * [Bounty proposal discussion (Polkassembly)](https://kusama.polkassembly.io/bounty/3)
 * [Bounty motion discussion (Polkassembly)](https://kusama.polkassembly.io/motion/272)
 * [Bounty Discussion Channel](https://app.element.io/#/room/#mobile-injector:matrix.org)
