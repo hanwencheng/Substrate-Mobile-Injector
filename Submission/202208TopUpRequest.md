@@ -1,4 +1,4 @@
-#Bounty 3 Top-up Request
+# Bounty 3 Top-up Request
 
 [Bounty #3](https://kusama.polkassembly.io/bounty/3) aims to provide a signing solution to bridge the dApps and mobile wallets, which using Beacon Network as a decentralized peer to peer network of nodes based on the matrix protocol, with trustless and encrypted message relaying.
 
