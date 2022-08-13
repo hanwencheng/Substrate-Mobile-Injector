@@ -23,7 +23,10 @@ For the detail of the review of bounty 3 please refer to:
 
 The reward of the bounty is paid in two parts due to the size of the work is big which may introduce financial risk to the teams if we only distribute the reward by the completion of the bounty. 
 
-The first part is summarized in: https://github.com/hanwencheng/Substrate-Mobile-Injector/tree/main/Submission and is distributed by the multi-sig account FC4tZgWUDpg1AK5uoY7Z9bTaUanemyipoG7Tk8W9YXpxvZ6 with 394.328 KSM, the rest KSM reserved for part2 is 694.552 KSM.
+The first part is summarized in: https://github.com/hanwencheng/Substrate-Mobile-Injector/tree/main/Submission and is distributed by the multi-sig account FC4tZgWUDpg1AK5uoY7Z9bTaUanemyipoG7Tk8W9YXpxvZ6 with 394.328 KSM, the rest KSM reserved for part2 is 694.552 KSM. 
+
+The discussion is followed on [Polkassembly](https://kusama.polkassembly.io/bounty/3#75f2df36-575c-4a1e-973d-426fc01542b1)
+![First Part Comment](../res/firstPart.png)
 
 The multi-sig wallet is currently handled by 4 accounts for transparency, two from me, one from Pascal of Beacon team, one from Anton of Fearless/Nova team.
 
