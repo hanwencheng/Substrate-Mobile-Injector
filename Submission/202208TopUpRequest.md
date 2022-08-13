@@ -14,3 +14,9 @@ For the detail of the review of bounty 3 please refer to:
 * [Review of Part 1 on 2021 October - Beacon](./202110Beacon_Review.md)
 * [Review of Part 1 on 2021 October - Fearless Wallet](./202110Fearless_Submission_Review.md)
 * [Review of Part 2 on 2022 June](./202206Review.md)
+
+### Contact Information
+* Curator: Hanwen Cheng hanwen@litentry.com
+* Beacon Network: Pascal p.brun@papers.ch
+* Nova Wallet: anton@novawallet.io
+* Fearless Wallet: petrov@soramitsu.co.jp
